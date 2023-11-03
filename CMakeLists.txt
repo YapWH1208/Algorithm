@@ -8,4 +8,12 @@ add_executable(Algorithm BinarySearch.cpp MergeSort.cpp
         MergeSort.h
         BinarySearch.h
         QuickSort.cpp
-        QuickSort.h)
+        QuickSort.h
+        Strassen.cpp
+        Strassen.h
+        RadixSort.cpp
+        RadixSort.h
+        BubbleSort.cpp
+        BubbleSort.h
+        SelectionSort.cpp
+        SelectionSort.h)
