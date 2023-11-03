@@ -73,6 +73,30 @@ build CMakeFiles/Algorithm.dir/QuickSort.cpp.obj: CXX_COMPILER__Algorithm_unscan
   OBJECT_DIR = CMakeFiles\Algorithm.dir
   OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
 
+build CMakeFiles/Algorithm.dir/Strassen.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Cpp/Algorithm/Strassen.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\Strassen.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
+
+build CMakeFiles/Algorithm.dir/RadixSort.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Cpp/Algorithm/RadixSort.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\RadixSort.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
+
+build CMakeFiles/Algorithm.dir/BubbleSort.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Cpp/Algorithm/BubbleSort.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\BubbleSort.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
+
+build CMakeFiles/Algorithm.dir/SelectionSort.cpp.obj: CXX_COMPILER__Algorithm_unscanned_Debug E$:/Cpp/Algorithm/SelectionSort.cpp || cmake_object_order_depends_target_Algorithm
+  DEP_FILE = CMakeFiles\Algorithm.dir\SelectionSort.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Algorithm.dir
+  OBJECT_FILE_DIR = CMakeFiles\Algorithm.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Algorithm
@@ -81,7 +105,7 @@ build CMakeFiles/Algorithm.dir/QuickSort.cpp.obj: CXX_COMPILER__Algorithm_unscan
 #############################################
 # Link the executable Algorithm.exe
 
-build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Debug CMakeFiles/Algorithm.dir/BinarySearch.cpp.obj CMakeFiles/Algorithm.dir/MergeSort.cpp.obj CMakeFiles/Algorithm.dir/Main.cpp.obj CMakeFiles/Algorithm.dir/QuickSort.cpp.obj
+build Algorithm.exe: CXX_EXECUTABLE_LINKER__Algorithm_Debug CMakeFiles/Algorithm.dir/BinarySearch.cpp.obj CMakeFiles/Algorithm.dir/MergeSort.cpp.obj CMakeFiles/Algorithm.dir/Main.cpp.obj CMakeFiles/Algorithm.dir/QuickSort.cpp.obj CMakeFiles/Algorithm.dir/Strassen.cpp.obj CMakeFiles/Algorithm.dir/RadixSort.cpp.obj CMakeFiles/Algorithm.dir/BubbleSort.cpp.obj CMakeFiles/Algorithm.dir/SelectionSort.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Algorithm.dir

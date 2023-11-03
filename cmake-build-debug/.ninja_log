@@ -1,9 +1,7 @@
 # ninja log v5
-0	287	7198305244655277	build.ninja	80aecf07979e7558
+0	287	7206262064864290	build.ninja	80aecf07979e7558
 2	571	7198298198249788	CMakeFiles/Algorithm.dir/BinarySearch.cpp.obj	28be430a52caedf2
-580	741	7198304383838437	Algorithm.exe	727269e8e02a62d0
+919	1076	7198308686099012	Algorithm.exe	6cbf2df829532819
 2	580	7198304382262492	CMakeFiles/Algorithm.dir/MergeSort.cpp.obj	af67c1a21b940ab5
-39	916	7198302909942312	CMakeFiles/Algorithm.dir/Main.cpp.obj	b00aa5f6b16f97ec
 3	675	7198308682105203	CMakeFiles/Algorithm.dir/Main.cpp.obj	b00aa5f6b16f97ec
 40	919	7198308684553765	CMakeFiles/Algorithm.dir/QuickSort.cpp.obj	7c17cfd174e42fc5
-919	1076	7198308686099012	Algorithm.exe	6cbf2df829532819
