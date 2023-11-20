@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Algorithm"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="E:/Cpp/Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithm">
+				<Option output="E:/Cpp/Algorithm/cmake-build-debug/Algorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Cpp/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithm"/>
+					<CompileFile command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithm/fast">
+				<Option output="E:/Cpp/Algorithm/cmake-build-debug/Algorithm.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="E:/Cpp/Algorithm/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../include"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed"/>
+					<Add directory="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/13.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithm/fast"/>
+					<CompileFile command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="E:/Cpp/Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="E:/Cpp/Algorithm/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/YapWH/AppData/Local/Programs/CLion/bin/mingw/bin/mingw32-make.exe -f &quot;E:/Cpp/Algorithm/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="E:/Cpp/Algorithm/BinarySearch.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/BinarySearch.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/BubbleSort.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/BubbleSort.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/Main.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/MergeSort.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/MergeSort.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/QuickSort.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/QuickSort.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/RadixSort.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/RadixSort.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/SelectionSort.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/SelectionSort.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/Strassen.cpp">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/Strassen.h">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
