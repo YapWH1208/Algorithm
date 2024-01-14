@@ -8,6 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "E:/Cpp/Algorithm/BFS.c" "CMakeFiles/Algorithm.dir/BFS.c.obj" "gcc" "CMakeFiles/Algorithm.dir/BFS.c.obj.d"
+  "E:/Cpp/Algorithm/DFS.c" "CMakeFiles/Algorithm.dir/DFS.c.obj" "gcc" "CMakeFiles/Algorithm.dir/DFS.c.obj.d"
+  "E:/Cpp/Algorithm/Dijkstra.c" "CMakeFiles/Algorithm.dir/Dijkstra.c.obj" "gcc" "CMakeFiles/Algorithm.dir/Dijkstra.c.obj.d"
   "E:/Cpp/Algorithm/BinarySearch.cpp" "CMakeFiles/Algorithm.dir/BinarySearch.cpp.obj" "gcc" "CMakeFiles/Algorithm.dir/BinarySearch.cpp.obj.d"
   "E:/Cpp/Algorithm/BubbleSort.cpp" "CMakeFiles/Algorithm.dir/BubbleSort.cpp.obj" "gcc" "CMakeFiles/Algorithm.dir/BubbleSort.cpp.obj.d"
   "E:/Cpp/Algorithm/Main.cpp" "CMakeFiles/Algorithm.dir/Main.cpp.obj" "gcc" "CMakeFiles/Algorithm.dir/Main.cpp.obj.d"

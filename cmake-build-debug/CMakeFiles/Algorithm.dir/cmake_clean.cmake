@@ -2,10 +2,16 @@ file(REMOVE_RECURSE
   "Algorithm.exe"
   "Algorithm.exe.manifest"
   "Algorithm.pdb"
+  "CMakeFiles/Algorithm.dir/BFS.c.obj"
+  "CMakeFiles/Algorithm.dir/BFS.c.obj.d"
   "CMakeFiles/Algorithm.dir/BinarySearch.cpp.obj"
   "CMakeFiles/Algorithm.dir/BinarySearch.cpp.obj.d"
   "CMakeFiles/Algorithm.dir/BubbleSort.cpp.obj"
   "CMakeFiles/Algorithm.dir/BubbleSort.cpp.obj.d"
+  "CMakeFiles/Algorithm.dir/DFS.c.obj"
+  "CMakeFiles/Algorithm.dir/DFS.c.obj.d"
+  "CMakeFiles/Algorithm.dir/Dijkstra.c.obj"
+  "CMakeFiles/Algorithm.dir/Dijkstra.c.obj.d"
   "CMakeFiles/Algorithm.dir/Main.cpp.obj"
   "CMakeFiles/Algorithm.dir/Main.cpp.obj.d"
   "CMakeFiles/Algorithm.dir/MergeSort.cpp.obj"
@@ -22,6 +28,6 @@ file(REMOVE_RECURSE
 )
 
 # Per-language clean rules from dependency scanning.
-foreach(lang CXX)
+foreach(lang C CXX)
   include(CMakeFiles/Algorithm.dir/cmake_clean_${lang}.cmake OPTIONAL)
 endforeach()

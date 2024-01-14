@@ -82,49 +82,49 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="E:/Cpp/Algorithm/BinarySearch.cpp">
+		<Unit filename="E:/Cpp/Algorithm/BFS.c">
 			<Option target="Algorithm"/>
 		</Unit>
-		<Unit filename="E:/Cpp/Algorithm/BinarySearch.h">
+		<Unit filename="E:/Cpp/Algorithm/BinarySearch.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
 		<Unit filename="E:/Cpp/Algorithm/BubbleSort.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
-		<Unit filename="E:/Cpp/Algorithm/BubbleSort.h">
+		<Unit filename="E:/Cpp/Algorithm/DFS.c">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/Dijkstra.c">
+			<Option target="Algorithm"/>
+		</Unit>
+		<Unit filename="E:/Cpp/Algorithm/Graph.h">
 			<Option target="Algorithm"/>
 		</Unit>
 		<Unit filename="E:/Cpp/Algorithm/Main.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
-		<Unit filename="E:/Cpp/Algorithm/MergeSort.cpp">
+		<Unit filename="E:/Cpp/Algorithm/Matrix.h">
 			<Option target="Algorithm"/>
 		</Unit>
-		<Unit filename="E:/Cpp/Algorithm/MergeSort.h">
+		<Unit filename="E:/Cpp/Algorithm/MergeSort.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
 		<Unit filename="E:/Cpp/Algorithm/QuickSort.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
-		<Unit filename="E:/Cpp/Algorithm/QuickSort.h">
-			<Option target="Algorithm"/>
-		</Unit>
 		<Unit filename="E:/Cpp/Algorithm/RadixSort.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
-		<Unit filename="E:/Cpp/Algorithm/RadixSort.h">
+		<Unit filename="E:/Cpp/Algorithm/Search.h">
 			<Option target="Algorithm"/>
 		</Unit>
 		<Unit filename="E:/Cpp/Algorithm/SelectionSort.cpp">
 			<Option target="Algorithm"/>
 		</Unit>
-		<Unit filename="E:/Cpp/Algorithm/SelectionSort.h">
+		<Unit filename="E:/Cpp/Algorithm/Sort.h">
 			<Option target="Algorithm"/>
 		</Unit>
 		<Unit filename="E:/Cpp/Algorithm/Strassen.cpp">
-			<Option target="Algorithm"/>
-		</Unit>
-		<Unit filename="E:/Cpp/Algorithm/Strassen.h">
 			<Option target="Algorithm"/>
 		</Unit>
 		<Unit filename="E:/Cpp/Algorithm/CMakeLists.txt">
