@@ -1,10 +1,9 @@
 #include <iostream>
 #include <vector>
-#include "Strassen.h"
 
 using namespace std;
 
-vector<vector<int>> add(const vector<vector<int>> &A, const vector<vector<int>> &B){
+vector<vector<int>> addMatrices(const vector<vector<int>> &A, const vector<vector<int>> &B){
     int n = A.size();
     vector<vector<int>> result(n, vector<int>(n,0));
     for(int i=0; i<n; ++i){
@@ -15,7 +14,7 @@ vector<vector<int>> add(const vector<vector<int>> &A, const vector<vector<int>> 
     return result;
 }
 
-vector<vector<int>> subtract(const vector<vector<int>> &A, const vector<vector<int>> &B){
+vector<vector<int>> subtractMatrices(const vector<vector<int>> &A, const vector<vector<int>> &B){
     int n = A.size();
     vector<vector<int>> result(n, vector<int>(n,0));
     for(int i=0; i<n; ++i){
@@ -26,7 +25,7 @@ vector<vector<int>> subtract(const vector<vector<int>> &A, const vector<vector<i
     return result;
 }
 
-vector<vector<int>> Strassen(const vector<vector<int>> &A, const vector<vector<int>> &B){
+vector<vector<int>> strassenMultiply(const vector<vector<int>> &A, const vector<vector<int>> &B){
     int n = A.size();
 
     if(n==1){
