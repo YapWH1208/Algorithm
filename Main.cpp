@@ -1,8 +1,8 @@
 #include <vector>
 #include <iostream>
-#include "MergeSort.h"
-#include "BinarySearch.h"
-#include "QuickSort.h"
+#include "Sort.h"
+#include "Search.h"
+#include "Matrix.h"
 
 using namespace std;
 
